@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-05-13T12:00:00Z",
+  "items": [
+    {
+      "id": "tucker-iran-next-phase-2026-03",
+      "source_type": "guest-yt",
+      "source_url": "https://www.youtube.com/results?search_query=Tucker+Carlson+Jiang+Xueqin+Iran",
+      "published_at": "2026-03-18T00:00:00Z",
+      "title": "[placeholder] The Next Phase in Iran",
+      "excerpt": "Jiang joins Tucker Carlson to walk through what comes next in the Iran file — the leverage points, the timelines, and how the regional balance is likely to shift over the next six months. Game-theoretic framing throughout.",
+      "host_channel": "Tucker Carlson Show"
+    },
+    {
+      "id": "endgame-259-gita-wirjawan",
+      "source_type": "guest-yt",
+      "source_url": "https://www.youtube.com/watch?v=rsi7cDRUrmE",
+      "published_at": "2025-12-04T00:00:00Z",
+      "title": "Endgame #259 — Predictive History with Gita Wirjawan",
+      "excerpt": "A long-form conversation with Gita Wirjawan on how to forecast geopolitics by reading incentives and constraints rather than narratives. Covers China, Indonesia, the US election aftermath, and the limits of prediction.",
+      "host_channel": "Endgame · Gita Wirjawan",
+      "duration_s": 5400
+    },
+    {
+      "id": "glenn-diesen-ww3",
+      "source_type": "guest-yt",
+      "source_url": "https://www.youtube.com/results?search_query=Glenn+Diesen+Jiang+Xueqin+WW3",
+      "published_at": "2025-11-12T00:00:00Z",
+      "title": "[placeholder] We Are Already in WW3 — with Glenn Diesen",
+      "excerpt": "Jiang and Glenn Diesen argue that the framing of \"are we heading toward WW3?\" misses the point — the conflict is already running, distributed across theaters, and the question is now about which side adapts faster.",
+      "host_channel": "Glenn Diesen"
+    },
+    {
+      "id": "danny-haiphong-2025-10",
+      "source_type": "guest-yt",
+      "source_url": "https://www.youtube.com/@GeopoliticsDH",
+      "published_at": "2025-10-22T00:00:00Z",
+      "title": "[placeholder] On the multipolar transition — with Danny Haiphong",
+      "excerpt": "Jiang on Danny Haiphong's geopolitics show. Why the \"multipolar world\" framing is both correct in direction and misleading in mechanism, and what the next year of US-China posture looks like.",
+      "host_channel": "Geopolitics with Danny Haiphong"
+    },
+    {
+      "id": "piers-morgan-2025",
+      "source_type": "guest-yt",
+      "source_url": "https://www.youtube.com/results?search_query=Piers+Morgan+Jiang+Xueqin",
+      "published_at": "2025-09-08T00:00:00Z",
+      "title": "[placeholder] Jiang on Piers Morgan Uncensored",
+      "excerpt": "A tense panel debate on Piers Morgan Uncensored. Jiang argues that Western analytic frameworks systematically over-weight stated intentions and under-weight revealed constraints.",
+      "host_channel": "Piers Morgan Uncensored"
+    },
+    {
+      "id": "predictive-history-china-game-theory-2024",
+      "source_type": "own-yt",
+      "source_url": "https://www.youtube.com/@PredictiveHistory",
+      "published_at": "2025-08-15T00:00:00Z",
+      "title": "[placeholder] The game-theoretic case on Taiwan",
+      "excerpt": "What both sides actually want, what they can credibly threaten, and where the equilibrium probably settles. A worked example of how Predictive History reasons about flashpoints without forecasting dates.",
+      "duration_s": 1380
+    },
+    {
+      "id": "predictive-history-russia-ukraine-2025",
+      "source_type": "own-yt",
+      "source_url": "https://www.youtube.com/@PredictiveHistory",
+      "published_at": "2025-06-02T00:00:00Z",
+      "title": "[placeholder] Reading the Russia-Ukraine endgame",
+      "excerpt": "A constraint-first read on how the Russia-Ukraine war ends — not who \"should\" win, but which exits are actually available to each side once you take the visible constraints seriously.",
+      "duration_s": 1620
+    },
+    {
+      "id": "predictive-history-intro-2024",
+      "source_type": "own-yt",
+      "source_url": "https://www.youtube.com/@PredictiveHistory",
+      "published_at": "2024-11-04T00:00:00Z",
+      "title": "[placeholder] What is Predictive History?",
+      "excerpt": "The opening video of the channel. Why most geopolitical commentary is post-hoc storytelling, and what it would take to actually predict outcomes — incentives, constraints, and revealed preference.",
+      "duration_s": 900
+    },
+    {
+      "id": "substack-collapse-narratives-2025",
+      "source_type": "substack",
+      "source_url": "https://predictivehistory.substack.com/",
+      "published_at": "2025-07-21T00:00:00Z",
+      "title": "[placeholder] Against collapse narratives",
+      "excerpt": "Why \"X is collapsing\" is the most overused frame in commentary, and what to substitute for it when reasoning about declining states. A short essay drawing on the Predictive History method.",
+      "host_channel": "predictivehistory.substack.com"
+    },
+    {
+      "id": "substack-method-notes-2025",
+      "source_type": "substack",
+      "source_url": "https://predictivehistory.substack.com/",
+      "published_at": "2025-04-10T00:00:00Z",
+      "title": "[placeholder] Method notes: how I'm wrong",
+      "excerpt": "A self-audit of the calls I got wrong over the past year. The failure modes cluster — over-weighting elite signaling, under-weighting bureaucratic inertia, and assuming actors are unitary when they aren't.",
+      "host_channel": "predictivehistory.substack.com"
+    }
+  ]
+}
